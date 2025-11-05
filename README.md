@@ -27,6 +27,10 @@ Tujuan proyek ini adalah untuk mempelajari **alur dasar aplikasi e-commerce** di
 
 <img width="505" height="805" alt="image" src="https://github.com/user-attachments/assets/81a38856-2778-47ed-9207-3854ffb0d4f8" />
 
+---
+
+<img width="508" height="803" alt="image" src="https://github.com/user-attachments/assets/3eb534e6-17ae-44c6-b58b-88b67f898bf4" />
+
 ### Drawer
 
 <img width="500" height="796" alt="image" src="https://github.com/user-attachments/assets/96b01eba-3bf8-4bbc-ab79-2ed6773c3a13" />
@@ -34,6 +38,8 @@ Tujuan proyek ini adalah untuk mempelajari **alur dasar aplikasi e-commerce** di
 ### Cart Page
 
 <img width="501" height="800" alt="image" src="https://github.com/user-attachments/assets/f681b5c8-4548-4f46-b841-01a9c46cb143" />
+
+---
 
 <img width="508" height="807" alt="image" src="https://github.com/user-attachments/assets/a528e82d-0fd7-4fd5-a543-f3bb9dce7de7" />
 
