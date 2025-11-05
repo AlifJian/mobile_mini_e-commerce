@@ -58,7 +58,7 @@ Tujuan proyek ini adalah untuk mempelajari **alur dasar aplikasi e-commerce** di
 
 ```bash
 git clone https://github.com/AlifJian/mobile_mini_e-commerce
-cd flutter_ecommerce_no_backend
+cd mobile_mini_e-commerce
 flutter pub get
 flutter run
 ```
