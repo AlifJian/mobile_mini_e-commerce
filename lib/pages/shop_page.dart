@@ -18,13 +18,17 @@ class ShopPage extends StatelessWidget {
         elevation: 0,
         foregroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text("Halaman Toko"),
+        actions: [
+          IconButton(onPressed: () => Navigator.pushNamed(context, "/cart_page"), icon: Icon(Icons.shopping_cart_checkout)),
+        ],
+        centerTitle: true,
       ),
       drawer: DrawerGw(),
       body: ListView(
         children: [
           Center(child: Text("Silahkan pilih barang paling premium")),
           SizedBox(
-            height: 500,
+            height: MediaQuery.of(context).size.height,
             child: ListView.builder(
               itemCount: products.length,
               padding: EdgeInsets.all(12.0),
